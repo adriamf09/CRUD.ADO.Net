@@ -1,0 +1,10 @@
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\bin\Debug\FormADO.exe.config
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\bin\Debug\FormADO.exe
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\bin\Debug\FormADO.pdb
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.Form1.resources
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.Properties.Resources.resources
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.csproj.GenerateResource.cache
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.csproj.CoreCompileInputs.cache
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.exe
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.pdb
+C:\Users\Adriam Familia\source\repos\FormADO\FormADO\obj\Debug\FormADO.csprojAssemblyReference.cache
